@@ -1,7 +1,3 @@
-# Data Structures Implementation
-
-This project implements various data structures in C++ with a focus on educational purposes. Each data structure is implemented in a separate module with clear interface and implementation files.
-
 ## Project Structure
 
 ### Common Components
@@ -37,23 +33,7 @@ This project implements various data structures in C++ with a focus on education
 
 ## Building and Running
 
-Each task file can be compiled independently. For example:
-
 ```bash
 g++ -std=c++11 2Task01.cpp Stack.cpp Common.cpp -o task01
 ./task01
 ```
-
-## Features
-
-- Modern C++ implementation (C++11 and above)
-- Clear separation of interface and implementation
-- Exception handling for error cases
-- Memory management with proper cleanup
-- Template-based container operations
-- Educational comments and documentation
-
-## Requirements
-
-- C++11 compatible compiler
-- Standard C++ libraries 
